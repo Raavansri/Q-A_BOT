@@ -129,7 +129,6 @@ prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 protobuf==3.13.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/jaisri/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydantic==1.7.4
 Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
