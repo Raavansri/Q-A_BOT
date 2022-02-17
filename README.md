@@ -1,4 +1,16 @@
 # Q&A_BOT
         This Bot can answer user's query based on the pdf givent to Bot(purple)
         
-## Requiements
+## Require Packages:
+        numpy
+        scikit-learn
+        scipy
+        sklearn
+        newspaper3k
+        nltk
+        transformers
+
+## Execute Locally:      
+        -> Clone repo
+        -> Install packages
+        -> Run main file i.e., app.py
