@@ -13,7 +13,7 @@
 
 ## Execute Locally:      
         -> Check code option in top rught ,Clone Q-A_BOT-purple repositories,
-        -> Install packages,
+        -> Install require packages,
         -> Run main file i.e., app.py
 
 # THANKS
