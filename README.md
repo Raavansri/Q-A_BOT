@@ -1,4 +1,5 @@
 # Q&A_BOT
+
         This Bot can answer user's query based on the pdf givent to Bot(purple)
         
 ## Require Packages:
@@ -11,6 +12,8 @@
         transformers
 
 ## Execute Locally:      
-        -> Clone repo
-        -> Install packages
+        -> Check code option in top rught ,Clone Q-A_BOT-purple repositories,
+        -> Install packages,
         -> Run main file i.e., app.py
+
+# THANKS
